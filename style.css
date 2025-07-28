@@ -1,0 +1,55 @@
+/* style.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #b3e5fc, #fff8e1);
+  color: #004d40;
+}
+
+header {
+  background: #0288d1;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+  background-image: url('https://www.transparenttextures.com/patterns/sandpaper.png');
+}
+
+nav {
+  background: #4dd0e1;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+footer {
+  text-align: center;
+  background: #0288d1;
+  color: white;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+img.beach {
+  display: block;
+  margin: 1rem auto;
+  max-width: 15
