@@ -3,11 +3,11 @@ body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   background: linear-gradient(to bottom, #b3e5fc, #fff8e1);
-  color: #004d40;
+  color: #ff8800;
 }
 
 header {
-  background: #0288d1;
+  background: #ffa200;
   color: white;
   padding: 2rem;
   text-align: center;
@@ -43,7 +43,7 @@ main {
 
 footer {
   text-align: center;
-  background: #0288d1;
+  background: #ffa200;
   color: white;
   padding: 1rem;
   margin-top: 2rem;
